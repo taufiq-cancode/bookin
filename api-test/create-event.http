@@ -1,0 +1,9 @@
+POST http://localhost:8080/events
+Content-type: application/json
+
+{
+    "name": "Croc City Rocks",
+    "description": "Urban party rave",
+    "location": "Kaduna",
+    "dateTime": "2024-01-04T15:30:00.000Z"
+}
