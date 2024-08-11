@@ -1,0 +1,10 @@
+PUT http://localhost:8080/events/2
+Content-type: application/json
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlZTJka2F5eUBnbWFpbC5jb20iLCJleHAiOjE3MjMzODYyMjcsInVzZXJJZCI6Mn0.UVx8oA4RLbzHRkLMacglfaHBEPsPw86suXgWLO9Pneo
+
+{
+    "name": "Whooo Pops",
+    "description": "Urban party rave",
+    "location": "Kaduna",
+    "dateTime": "2024-01-04T15:30:00.000Z"
+}

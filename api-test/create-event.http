@@ -1,0 +1,10 @@
+POST http://localhost:8080/events
+Content-type: application/json
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlZTJka2F5eUBnbWFpbC5jb20iLCJleHAiOjE3MjMzODkwNTMsInVzZXJJZCI6MX0.Jk1fdqlEWdWkg8XaXrw3I1Qi8pH0nDOomOaS7QWu61Y
+
+{
+    "name": "Raveee",
+    "description": "Campus rave",
+    "location": "Kaduna",
+    "dateTime": "2006-01-02T15:04:05Z"
+}
